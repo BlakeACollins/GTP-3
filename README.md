@@ -1,3 +1,3 @@
 # Mordern UX/UI
 
-Building a UX/UI for Hoo Bank with React and Tailwind CSS.
+Building a UX/UI for My AI. Made with React and Tailwind CSS.
