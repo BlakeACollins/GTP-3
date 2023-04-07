@@ -1,6 +1,6 @@
-# Mordern UX/UI
+# GTP-3
 
-Building a UX/UI for GTP-3. Made with React and CSS. In this project I learned the following: 
+Building a modern UX/UI for GTP-3. Made with React and CSS. In this project I learned the following: 
 - React functional components and their reusability
 - React file and folder structure
 - Fundamental #CSS properties to master flex & grid
