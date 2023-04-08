@@ -1,15 +1,15 @@
-*{
+* {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
   scroll-behavior: smooth;
- 
 }
-body{
+
+body {
   background: var(--color-bg);
 }
 
-a{
+a {
   color: unset;
   text-decoration: none;
 }
@@ -29,10 +29,11 @@ a{
   /* global 92%+ browsers support */
   background:radial-gradient(circle at 3% 25%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 25%);
 }
+
 .gradient__text {
-  background:var(--gradient-text);
+  background: var(--gradient-text);
   background-clip: text;
-  -webkit-background-clop: text;
+  -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
@@ -71,20 +72,22 @@ a{
   }
 }
 
-@media screen and (max-width: 700px){
-  .section__padding{
+@media screen and (max-width: 700px) {
+  .section__padding {
     padding: 4rem;
   }
-  .section__margin{
+
+  .section__margin {
     margin: 4rem;
   }
 }
-@media screen and (max-width: 550px){
-  .section__padding{
+
+@media screen and (max-width: 550px) {
+  .section__padding {
     padding: 4rem 2rem;
   }
-  .section__margin{
+
+  .section__margin {
     margin: 4rem 2rem;
-  }
+  }  
 }
-  
